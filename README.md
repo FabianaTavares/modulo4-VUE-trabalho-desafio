@@ -13,7 +13,8 @@ Apesar de o curso fornecer o codigo fonte original aos alunos, procurei deixar o
 ### Frontend & Backend
 
 1. npm install para instalar as dependencias do projeto.
-2. instalar o json-server para simular o backend
+
+2) instalar o json-server para simular o backend
 
 ```
 npm install -g json-server
@@ -110,11 +111,11 @@ browser com o nome do produto e preço).
 
 ### Lista de produtos:
 
-![alt text](https://github.com/FabianaTavares/Modulo1-Javascript-Desafio/blob/master/src\assets\imgs\imagem_resultado_esperado.PNG)
+![alt text](https://github.com/FabianaTavares/modulo4-VUE-trabalho-desafio/blob/main/src\assets\imgs\imagem_resultado_esperado.PNG)
 
 ### Detalhes do Produto:
 
-![alt text](https://github.com/FabianaTavares/Modulo1-Javascript-Desafio/blob/master/src/assets/imgs/imagem_resultado_esperado_detalhes.PNG)
+![alt text](https://github.com/FabianaTavares/modulo4-VUE-trabalho-desafio/blob/main/src/assets/imgs/imagem_resultado_esperado_detalhes.PNG)
 
 ## Objetivos do Desafio
 
