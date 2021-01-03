@@ -111,7 +111,7 @@ browser com o nome do produto e preço).
 
 ### Lista de produtos:
 
-![alt text](https://github.com/FabianaTavares/modulo4-VUE-trabalho-desafio/blob/main/src\assets\imgs\imagem_resultado_esperado.PNG)
+![alt text](https://github.com/FabianaTavares/modulo4-VUE-trabalho-desafio/blob/main/src/assets/imgs/imagem_resultado_esperado.PNG)
 
 ### Detalhes do Produto:
 
