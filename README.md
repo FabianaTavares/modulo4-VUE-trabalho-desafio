@@ -12,15 +12,25 @@ Apesar de o curso fornecer o codigo fonte original aos alunos, procurei deixar o
 
 ### Frontend & Backend
 
-1. npm install para instalar as dependencias do projeto.
+1. Para instalar as dependencias do projeto no frontend.
 
-2) instalar o json-server para simular o backend
+```
+npm install
+```
+
+2. Para rodar o projeto no frontend.
+
+```
+npm run serve
+```
+
+3. instalar o json-server para simular o backend
 
 ```
 npm install -g json-server
 ```
 
-2. para rodar o json server:
+4. para rodar o json server:
 
 ```
 json-server --watch db.json
