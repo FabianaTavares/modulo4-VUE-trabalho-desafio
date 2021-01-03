@@ -2,8 +2,6 @@
 
 Bootcamp FrontEnd - IGTI 2020
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
-
 ## Observação
 
 Apesar de o curso fornecer o codigo fonte original aos alunos, procurei deixar o meu codigo, exibindo assim erros e acertos, coisas a melhorar, acho que transparência é um ponto importantíssimo para o profissional.
@@ -38,12 +36,12 @@ json-server --watch db.json
 
 ## Ambiente de Produção
 
-Para visualizar o projeto rodando, basta acessar o [link do desafio!](https://fabi-igti-angular-desafio-2.web.app/)
+Para visualizar o projeto rodando, basta acessar o [link do desafio!](https://fabi-igti-vue.web.app/)
 OBS: Ainda estou estudando como o firebase pode ler o json backend, é um desafio novo.
 
 ## Docker Hub
 
-Imagem disponível no docker hub (fase de aprendizado) [link do desafio no dockerhub!](https://hub.docker.com/r/fabianatavares/angular-despesas)
+Imagem não disponível no docker hub.
 
 ## Objetivos do Trabalho Prático
 
